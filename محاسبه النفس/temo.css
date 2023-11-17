@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+.contenar{
+    width: 100%;
+    margin: 15px auto ;
+    padding: 10px;
+    border: 5px black solid;
+}
+table{
+    margin: auto;
+    padding: 20px;
+}
+.centab{
+    border: 3px black double;
+
+}
+.centab td{
+    border: 3px black solid;
+    width: 50%;
+}
+.nev td{
+    width: 50%;
+    border: 0;
+    text-align: right;
+}
+.fir td{
+    width: 15%;
+}
+.left{
+    margin: auto;
+    padding: auto;
+}
+.qu td{
+    width: 25%;
+}
+.qu td input{
+    width: 100%;
+}
+.fir thead{
+    font-weight: 900;
+}
+li{
+    margin: 10px auto;
+ }
